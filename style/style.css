@@ -1,10 +1,16 @@
-
-
 .azeret-mono-kb{
   font-family: "Azeret Mono", monospace;
   font-optical-sizing: auto;
   font-weight: normal;
   font-style: normal;
+}
+            /* share style */
+
+.dark{
+    background-color: rgb(13, 19, 33);
+}
+.dark-transparent{
+    background-color: rgba(13, 19, 33, 0.452);
 }
 
 /* start banner design part */
@@ -60,3 +66,26 @@
     text-align: center;
     border: none;
  }
+
+      /* banner part end */
+
+      /* development section start  */
+.development-container{
+    margin: 0 auto;
+    max-width: 1140px;
+    height: 1395px;
+    border: 2px red solid;
+    margin-top: 74px;
+}
+
+.development-content{
+    margin: 0 auto;
+    width: 1043px;
+    height: 1298px;
+    border: 2px red solid;
+    margin-top: 48px;
+}
+
+.development-items{
+
+}
