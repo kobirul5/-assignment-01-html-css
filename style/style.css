@@ -159,6 +159,7 @@
     margin: 0 auto;
     max-width: 1140px;
     height: 777px;
+    margin-bottom: 140px;
 
 }
 
@@ -181,3 +182,60 @@
     width: 1076px;
     height: 550px;
 }
+
+/* <!-- i need support start --> */
+
+.support-container{
+    margin: 0 auto;
+    background-position: center;
+    background-repeat: no-repeat;
+    border-radius: 20px;
+    background-size: 100%;
+    max-width: 1440px;
+    height: 314px;
+    background-image:linear-gradient(90deg, #04010a , #070211a1), url(../assets/handshake.jpg);
+
+}
+
+.support-content{
+    margin: 0 auto;
+    align-items: center;
+    width: ;
+    height: ;
+}
+
+.support-items{
+    margin-top: 26px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;  
+}
+
+.support-items h1{
+    color: white;
+    font-size: 32px;
+    font-weight: 700;
+    margin-bottom: 0;
+}
+.support-items p{
+    color: white;
+    font-size: 16px;
+    font-weight: 400;
+    margin-bottom: 0;
+    margin: 24px 219px;
+}
+
+.support-items input{
+    width: 548px;
+    height: 52px;
+    border-radius: 10px;
+    border: none;
+}
+
+.support-items button{
+    width: 120px;
+    height: 52px;
+    border: none;
+}
+            /* <!-- i need support end --> */
