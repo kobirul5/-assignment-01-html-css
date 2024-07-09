@@ -126,7 +126,6 @@
     align-items: center;
     width: 1043px;
     height: 336px;
-    border: 2px red solid;
     margin-bottom: 0;
 }
 
@@ -153,3 +152,32 @@
 }
 
 /* development section end  */
+
+/* <!-- My Inspiration section start--> */
+
+.inspiration-container{
+    margin: 0 auto;
+    max-width: 1140px;
+    height: 777px;
+
+}
+
+.inspiration-content{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.inspiration-title{
+    text-align: center;
+    margin: 0px 140px 50px 140px;
+}
+
+
+.inspiration-video{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 1076px;
+    height: 550px;
+}
