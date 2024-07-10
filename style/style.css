@@ -84,9 +84,11 @@
 
       /* development section start  */
 .development-container{
+
     margin: 0 auto;
     max-width: 1140px;
     height: 1395px;
+    margin-top: 140px;
     padding: 80px;
     margin-bottom: 74px;
     border-radius: 16px;
@@ -123,7 +125,7 @@
 
             /* share development code items style */
 
-.development-code{
+.development-code{ ;
     display: flex;
     justify-content: space-between;
     align-items: center;
@@ -162,6 +164,7 @@
 /* <!-- My Inspiration section start--> */
 
 .inspiration-container{
+
     margin: 0 auto;
     max-width: 1140px;
     height: 777px;
@@ -198,7 +201,6 @@
     height: 463px;
     margin: 0 auto;
     padding: 0px;
-    border: 2px red solid;
     margin-bottom: 150px;
 }
 
