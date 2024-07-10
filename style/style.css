@@ -84,7 +84,7 @@
 
       /* development section start  */
 .development-container{
-
+    
     margin: 0 auto;
     max-width: 1140px;
     height: 1395px;
@@ -92,7 +92,7 @@
     padding: 80px;
     margin-bottom: 74px;
     border-radius: 16px;
-    background-color: rgba(13, 19, 33, 0.02);
+    background-color: rgba(13, 19, 33, 0.096);
 }
 
 .development-content{
@@ -125,7 +125,7 @@
 
             /* share development code items style */
 
-.development-code{ ;
+.development-code{
     display: flex;
     justify-content: space-between;
     align-items: center;
@@ -220,7 +220,7 @@
 }
 
 .target-html{
-    background-color: rgba(255, 75, 30, 0.014);
+    background-color: rgba(255, 75, 30, 0.178);
     padding: 40px;
     border-radius: 16px;
     margin-right: 24px;
@@ -229,13 +229,13 @@
 
 
 .target-css{
-    background-color:rgba(0, 76, 232, 0.05);;
+    background-color:rgba(0, 77, 232, 0.212);;
     padding: 40px;
     border-radius: 16px;
     margin-right: 24px;
 }     
 .target-javascript{
-    background-color: rgba(255, 223, 0, 0.05);;
+    background-color: rgba(255, 221, 0, 0.178);;
     padding: 40px;
     border-radius: 16px;
 }   
