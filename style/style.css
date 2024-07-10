@@ -4,6 +4,27 @@
   font-weight: normal;
   font-style: normal;
 }
+/* nav section */
+nav{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin: 0px 200px;
+}
+
+.nav-title{
+    font-weight: 800;
+    font-size: 28px;
+}
+
+nav ul li a{
+    text-decoration: none;
+    color: rgb(38, 38, 39);
+    font-size: 20px;
+}
+
+
+
             /* share style */
 
 .dark{
@@ -24,6 +45,10 @@
     width: 150px;
     height: 48px;
     font-size: 20px;
+}
+
+button:hover{
+    color: #04010a2f;
 }
 
 /* start banner design part */
