@@ -23,6 +23,19 @@ nav ul li a{
     font-size: 20px;
 }
 
+.nav-btn{
+    border-radius: 0%;
+    padding: 5px;
+    width: 150px;
+    height: 48px;
+    font-size: 20px;
+    width: 260px; 
+    border-radius: 5px;
+}
+.nav-btn:hover{
+    letter-spacing: 2px;
+    color: none;
+}
 
 
             /* share style */
@@ -296,8 +309,6 @@ button:hover{
 .support-content{
     margin: 0 auto;
     align-items: center;
-    width: ;
-    height: ;
 }
 
 .support-items{
@@ -337,7 +348,11 @@ button:hover{
     height: 52px;
     border: none;
     border-radius: 10px;
+    font-size: 20px;
+    font-weight: 600;
+    color: rgb(13, 19, 13);
 }
+
             /* <!-- i need support end --> */
 
         /* footer section start  */
